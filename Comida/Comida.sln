@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comida", "Comida.csproj", "{4422BBF5-8617-4899-8AE1-1E90777E0DE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4422BBF5-8617-4899-8AE1-1E90777E0DE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4422BBF5-8617-4899-8AE1-1E90777E0DE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4422BBF5-8617-4899-8AE1-1E90777E0DE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4422BBF5-8617-4899-8AE1-1E90777E0DE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {499D92EF-EE5B-45A0-A707-2A75A3BA0C7F}
+	EndGlobalSection
+EndGlobal

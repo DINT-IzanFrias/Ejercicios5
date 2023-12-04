@@ -1,0 +1,42 @@
+C:\Users\alumno\Desktop\DINT\Tema5\Ejercicios\Comida\bin\Debug\net6.0-windows\Comida.exe
+C:\Users\alumno\Desktop\DINT\Tema5\Ejercicios\Comida\bin\Debug\net6.0-windows\Comida.deps.json
+C:\Users\alumno\Desktop\DINT\Tema5\Ejercicios\Comida\bin\Debug\net6.0-windows\Comida.runtimeconfig.json
+C:\Users\alumno\Desktop\DINT\Tema5\Ejercicios\Comida\bin\Debug\net6.0-windows\Comida.dll
+C:\Users\alumno\Desktop\DINT\Tema5\Ejercicios\Comida\bin\Debug\net6.0-windows\Comida.pdb
+C:\Users\alumno\Desktop\DINT\Tema5\Ejercicios\Comida\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\alumno\Desktop\DINT\Tema5\Ejercicios\Comida\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\alumno\Desktop\DINT\Tema5\Ejercicios\Comida\obj\Debug\net6.0-windows\Comida_Content.g.cs
+C:\Users\alumno\Desktop\DINT\Tema5\Ejercicios\Comida\obj\Debug\net6.0-windows\Comida_MarkupCompile.cache
+C:\Users\alumno\Desktop\DINT\Tema5\Ejercicios\Comida\obj\Debug\net6.0-windows\Comida_MarkupCompile.lref
+C:\Users\alumno\Desktop\DINT\Tema5\Ejercicios\Comida\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\alumno\Desktop\DINT\Tema5\Ejercicios\Comida\obj\Debug\net6.0-windows\Comida.g.resources
+C:\Users\alumno\Desktop\DINT\Tema5\Ejercicios\Comida\obj\Debug\net6.0-windows\Comida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\Desktop\DINT\Tema5\Ejercicios\Comida\obj\Debug\net6.0-windows\Comida.AssemblyInfoInputs.cache
+C:\Users\alumno\Desktop\DINT\Tema5\Ejercicios\Comida\obj\Debug\net6.0-windows\Comida.AssemblyInfo.cs
+C:\Users\alumno\Desktop\DINT\Tema5\Ejercicios\Comida\obj\Debug\net6.0-windows\Comida.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\DINT\Tema5\Ejercicios\Comida\obj\Debug\net6.0-windows\Comida.dll
+C:\Users\alumno\Desktop\DINT\Tema5\Ejercicios\Comida\obj\Debug\net6.0-windows\refint\Comida.dll
+C:\Users\alumno\Desktop\DINT\Tema5\Ejercicios\Comida\obj\Debug\net6.0-windows\Comida.pdb
+C:\Users\alumno\Desktop\DINT\Tema5\Ejercicios\Comida\obj\Debug\net6.0-windows\Comida.genruntimeconfig.cache
+C:\Users\alumno\Desktop\DINT\Tema5\Ejercicios\Comida\obj\Debug\net6.0-windows\ref\Comida.dll
+C:\Users\alumno\Desktop\Varios\Izan\DI\Tema 5\actividades\Izan_Actividad5\Comida\bin\Debug\net6.0-windows\Comida.exe
+C:\Users\alumno\Desktop\Varios\Izan\DI\Tema 5\actividades\Izan_Actividad5\Comida\bin\Debug\net6.0-windows\Comida.deps.json
+C:\Users\alumno\Desktop\Varios\Izan\DI\Tema 5\actividades\Izan_Actividad5\Comida\bin\Debug\net6.0-windows\Comida.runtimeconfig.json
+C:\Users\alumno\Desktop\Varios\Izan\DI\Tema 5\actividades\Izan_Actividad5\Comida\bin\Debug\net6.0-windows\Comida.dll
+C:\Users\alumno\Desktop\Varios\Izan\DI\Tema 5\actividades\Izan_Actividad5\Comida\bin\Debug\net6.0-windows\Comida.pdb
+C:\Users\alumno\Desktop\Varios\Izan\DI\Tema 5\actividades\Izan_Actividad5\Comida\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\alumno\Desktop\Varios\Izan\DI\Tema 5\actividades\Izan_Actividad5\Comida\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\alumno\Desktop\Varios\Izan\DI\Tema 5\actividades\Izan_Actividad5\Comida\obj\Debug\net6.0-windows\Comida_Content.g.cs
+C:\Users\alumno\Desktop\Varios\Izan\DI\Tema 5\actividades\Izan_Actividad5\Comida\obj\Debug\net6.0-windows\Comida_MarkupCompile.cache
+C:\Users\alumno\Desktop\Varios\Izan\DI\Tema 5\actividades\Izan_Actividad5\Comida\obj\Debug\net6.0-windows\Comida_MarkupCompile.lref
+C:\Users\alumno\Desktop\Varios\Izan\DI\Tema 5\actividades\Izan_Actividad5\Comida\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\alumno\Desktop\Varios\Izan\DI\Tema 5\actividades\Izan_Actividad5\Comida\obj\Debug\net6.0-windows\Comida.g.resources
+C:\Users\alumno\Desktop\Varios\Izan\DI\Tema 5\actividades\Izan_Actividad5\Comida\obj\Debug\net6.0-windows\Comida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\Desktop\Varios\Izan\DI\Tema 5\actividades\Izan_Actividad5\Comida\obj\Debug\net6.0-windows\Comida.AssemblyInfoInputs.cache
+C:\Users\alumno\Desktop\Varios\Izan\DI\Tema 5\actividades\Izan_Actividad5\Comida\obj\Debug\net6.0-windows\Comida.AssemblyInfo.cs
+C:\Users\alumno\Desktop\Varios\Izan\DI\Tema 5\actividades\Izan_Actividad5\Comida\obj\Debug\net6.0-windows\Comida.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Varios\Izan\DI\Tema 5\actividades\Izan_Actividad5\Comida\obj\Debug\net6.0-windows\Comida.dll
+C:\Users\alumno\Desktop\Varios\Izan\DI\Tema 5\actividades\Izan_Actividad5\Comida\obj\Debug\net6.0-windows\refint\Comida.dll
+C:\Users\alumno\Desktop\Varios\Izan\DI\Tema 5\actividades\Izan_Actividad5\Comida\obj\Debug\net6.0-windows\Comida.pdb
+C:\Users\alumno\Desktop\Varios\Izan\DI\Tema 5\actividades\Izan_Actividad5\Comida\obj\Debug\net6.0-windows\Comida.genruntimeconfig.cache
+C:\Users\alumno\Desktop\Varios\Izan\DI\Tema 5\actividades\Izan_Actividad5\Comida\obj\Debug\net6.0-windows\ref\Comida.dll
